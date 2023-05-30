@@ -6,5 +6,14 @@ public class Sam {
 		System.out.println("sf");
 
 	}
+	
+	private void method3() {
+		System.out.println("o");
+	}
+	
+	private void method4() {
+		System.out.println("s");
+
+	}
 
 }
